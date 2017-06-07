@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "38063063058",
+    "project_id": "rhino-a381a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38063063058:android:536912140607d8f0",
+        "android_client_info": {
+          "package_name": "com.rhino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38063063058-id7aisr8kpg3rek7210qlvlkq8i8sh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmkHDMWy6hJlNPoaj8hTeTLrNrdTuVSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38063063058:android:4dcdaab883f5c92d",
+        "android_client_info": {
+          "package_name": "com.rhinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38063063058-r433ltcikj0l344uj6jsuhcb2l4mg6nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rhinoapp",
+            "certificate_hash": "b53828245972b5057992560665c7e6c525c27ffe"
+          }
+        },
+        {
+          "client_id": "38063063058-id7aisr8kpg3rek7210qlvlkq8i8sh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQmkHDMWy6hJlNPoaj8hTeTLrNrdTuVSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

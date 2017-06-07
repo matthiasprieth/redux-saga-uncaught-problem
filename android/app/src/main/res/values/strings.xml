@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RhinoApp</string>
+    <string name="fb_app_id">434909829954217</string>
+    <string name="fb_login_protocol_scheme">434909829954217</string>
+</resources>
